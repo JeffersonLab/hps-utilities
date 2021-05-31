@@ -1,9 +1,0 @@
-org/hps/datacat/EvioDatasetIndex.class
-org/hps/datacat/FileEventRange.class
-org/hps/datacat/FileFormat.class
-org/hps/datacat/Site.class
-org/hps/datacat/DatacatUtilities.class
-org/hps/datacat/DataType.class
-org/hps/datacat/DatacatConstants.class
-org/hps/datacat/EvioDatasetIndex$TimestampRange.class
-org/hps/datacat/DatacatPrintRun.class
